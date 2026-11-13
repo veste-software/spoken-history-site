@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veste-software.github.io/spoken-history-site/sitemap.xml
